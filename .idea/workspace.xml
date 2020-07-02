@@ -1,8 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7b111573-93fa-4774-bfb7-450c6b32ad93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project9/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cakes-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cakes-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cakes-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/headerBcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/sweets-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/sweets-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/sweets-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/z-cake-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/img/z-sweets-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/project8/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project8/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cake-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cake-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cake-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/doughnut-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/doughnuts-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/img/doughnut-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/doughnuts-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project8/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +96,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project9" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project9" />
+      <recent name="D:\100-JavaScript-Projects\project7\js" />
+      <recent name="D:\100-JavaScript-Projects\project5\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project9" />
+      <recent name="$PROJECT_DIR$/project8" />
       <recent name="D:\100-JavaScript-Projects\project7\js" />
       <recent name="D:\100-JavaScript-Projects\project7\img" />
       <recent name="D:\100-JavaScript-Projects\project7" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\100-JavaScript-Projects\project7\js" />
-      <recent name="D:\100-JavaScript-Projects\project5\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -78,12 +148,24 @@
       <workItem from="1593493274278" duration="2211000" />
       <workItem from="1593580777451" duration="119000" />
       <workItem from="1593594056156" duration="476000" />
-      <workItem from="1593595009119" duration="9433000" />
+      <workItem from="1593595009119" duration="9816000" />
+      <workItem from="1593669758374" duration="7854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="464" y="188" width="992" height="737" key="SettingsEditor" timestamp="1593580834234">
