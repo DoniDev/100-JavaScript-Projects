@@ -20,54 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b111573-93fa-4774-bfb7-450c6b32ad93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project9/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cakes-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cakes-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cakes-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/cupcakes-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/doughnuts-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/headerBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/sweets-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/sweets-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/sweets-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/z-cake-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/img/z-sweets-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project9/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project10/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project10/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/project8/css/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project8/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cake-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cake-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cake-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cakes-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/cupcake-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/cupcakes-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/doughnut-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/doughnuts-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/img/doughnut-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/project8/img/doughnuts-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project8/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +105,8 @@
       <workItem from="1593580777451" duration="119000" />
       <workItem from="1593594056156" duration="476000" />
       <workItem from="1593595009119" duration="9816000" />
-      <workItem from="1593669758374" duration="7854000" />
+      <workItem from="1593669758374" duration="8921000" />
+      <workItem from="1593946401409" duration="4465000" />
     </task>
     <servers />
   </component>
@@ -166,6 +123,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="464" y="188" width="992" height="737" key="SettingsEditor" timestamp="1593580834234">
