@@ -9,8 +9,6 @@ const clear = document.querySelector('.btn-clear');
 values.forEach((value =>{
     value.addEventListener('click', function () {
         input.value += value.dataset.num
-
-
     })
 
 }))

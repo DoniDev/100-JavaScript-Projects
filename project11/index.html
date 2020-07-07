@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Tip Form Project</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+    <div class="container">
+        <div class="row max-height align-items-center">
+            <div class="col-10 mx-auto col-md-8">
+                <div class="card">
+                    <div class="card-title p-2">
+                        <h3 class="text-uppercase text-center">tip calculator</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="feedback text-center alert alert-danger  text-capitalize p-1">
+                        </div>
+                        <form id='tip-form'>
+                            <!-- single input -->
+                            <div class="my-4">
+                                <h5 class="text-capitalize mb-2">how much was your bill ?</h5>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bill-icon"><i class="fas fa-dollar-sign fa-fw"></i></span>
+                                    </div>
+                                        <input type="number" class="form-control form-control-lg" id="input-z" step=".01">
+                                </div>
+                            </div>
+                            <div class="my-4">
+                                <h5 class="text-capitalize mb-2">how many people sharing the bill ?</h5>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text user-icon"><i class="fas fa-user fa-fw"></i></span>
+                                    </div>
+                                    <input type="number" class="form-control form-control-lg" id="input-users">
+                                </div>
+                            </div>
+                            <div class="my-4">
+                                <h5 class="text-capitalize mb-2">how was your service</h5>
+                                <div class="form-group">
+                                    <select class="form-control form-control-lg text-capitalize" id="input-service">
+                                        <option selected value="0">Choose...</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <input type="submit" class="d-block mx-auto text-capitalize btn submitBtn w-75" value="calculate">
+                        </form>
+                        <div class="loader text-center">
+                            <img src="img/Facebook-1s-200px.gif" alt="">
+                        </div>
+                        <div class="results text-center my-3">
+                            <h3 class="text-capitalize">tip amount<span> $ </span><span id="tip-amount"></span></h3>
+                            <h3 class="text-capitalize">total amount<span> $ </span><span id="total-amount"></span></h3>
+                            <h3 class="text-capitalize">each person owes<span> $ </span><span id="person-amount"></span>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
